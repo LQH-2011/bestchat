@@ -1,3 +1,3 @@
-<h1 style="center">Best Chat</h1>
+# Best Chat
 >*Chat for free, chat for privacy.*
 Visit site [here](https://bestchat.linkpc.net)
